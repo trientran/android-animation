@@ -1,0 +1,22 @@
+<resources>
+    <!-- App strings-->
+    <string name="app_name">DN Animation</string>
+
+
+    <!-- My Kidney intro slider-->
+    <string name="get_started">Get Started</string>
+
+    <string name="slide1_header">WELCOME TO THE MY KIDNEYS, MY HEALTH HANDBOOK.</string>
+    <string name="slide1_body">This handbook provides information about detecting and slowing down kidney disease.</string>
+
+    <string name="slide2_header">1 IN EVERY 10 ADULTS HAS SOME SIGN OF KIDNEY DISEASE SO YOU ARE NOT ALONE</string>
+    <string name="slide2_body">Your health care team can help you monitor your kidney health and slow down the damage to your kidneys.</string>
+
+    <string name="slide3_header">ACCESS RESOURCES, NETWORKS, AND ORGANISATIONS THAT GIVE YOU GUIDANCE AND PEER SUPPORT.</string>
+    <string name="slide3_body">Kidney Health Australia has a community of people with kidney disease who you can connect with.
+    The handbook also provides many resources and links to both information and s support network.</string>
+
+    <!-- Splash screen-->
+    <string name="splash_header">My Kidneys My Health</string>
+
+</resources>
