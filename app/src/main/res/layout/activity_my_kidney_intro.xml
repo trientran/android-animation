@@ -64,6 +64,8 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
+        <!--background views for the circle-->
+
         <ImageView
             android:id="@+id/circleRedBg"
             android:layout_width="0dp"
@@ -88,6 +90,7 @@
             app:srcCompat="@drawable/circle_frame" />
 
 
+        <!--containers for animated icons for each slide-->
         <include
             android:id="@+id/slide1IconGroup"
             layout="@layout/my_kidney_slide1_icon_group"/>
